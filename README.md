@@ -1,2 +1,2 @@
-My first readme
-Alx pre course
+My first readme for my alx pre course
+
